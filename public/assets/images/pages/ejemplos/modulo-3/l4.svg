@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="250" viewBox="0 0 290 250">
+  <g id="Grupo_3541" data-name="Grupo 3541" transform="translate(-640 -2181)">
+    <circle id="Elipse_578" data-name="Elipse 578" cx="86.5" cy="86.5" r="86.5" transform="translate(712 2225)" fill="#ffe3e2"/>
+    <g id="Grupo_3501" data-name="Grupo 3501" transform="translate(226 -57)">
+      <g id="Elipse_568" data-name="Elipse 568" transform="translate(432 2327)" fill="#59bfd6" stroke="#227d84" stroke-width="3">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="18.5" fill="none"/>
+      </g>
+      <text id="_4" data-name="4" transform="translate(446 2353)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+    </g>
+    <g id="Grupo_3503" data-name="Grupo 3503" transform="translate(535.047 2142.43)">
+      <path id="Trazado_2296" data-name="Trazado 2296" d="M229,170.55V159h48.51v11.55" transform="translate(20.96 55.02)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_2297" data-name="Trazado 2297" d="M250.24,153.03V127.62a4.62,4.62,0,0,0-9.24,0v25.41" transform="translate(36.68 7.86)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_2298" data-name="Trazado 2298" d="M246.24,155.65V125.62a4.62,4.62,0,0,0-9.24,0v30.03" transform="translate(31.44 5.24)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_2299" data-name="Trazado 2299" d="M247.31,202.23V186.688a22.576,22.576,0,0,0,6.93-16.272v-39.8a4.62,4.62,0,0,0-9.24,0V149.1" transform="translate(41.92 11.79)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Trazado_2300" data-name="Trazado 2300" d="M254.03,151.72v-23.1a4.62,4.62,0,1,0-9.24,0v33.532a3.442,3.442,0,0,1-6.415,1.737l-5.77-9.875a4.614,4.614,0,1,0-7.97,4.652l15.008,25.754a22.559,22.559,0,0,0,5.147,6.034v14.4" transform="translate(14.41 9.17)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <g id="Grupo_3502" data-name="Grupo 3502" transform="translate(213 117)">
+        <path id="Trazado_2301" data-name="Trazado 2301" d="M268.542,129.9c-1.347-1.2-2.668-2.435-3.929-3.74a30.022,30.022,0,1,0-29.836,49.73,74.115,74.115,0,0,1,11.543,4.426" transform="translate(-213 -117)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Trazado_2302" data-name="Trazado 2302" d="M246,188.646a30.024,30.024,0,0,0,8.254-58.894c-.448-.129-.878-.3-1.324-.437" transform="translate(-169.77 -100.866)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <line id="Línea_65" data-name="Línea 65" y2="28" transform="translate(212.953 197.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_66" data-name="Línea 66" y2="23" transform="translate(212.953 170.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_67" data-name="Línea 67" y2="14" transform="translate(221.953 211.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_68" data-name="Línea 68" y2="15" transform="translate(221.953 191.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_69" data-name="Línea 69" y2="6" transform="translate(221.953 179.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_70" data-name="Línea 70" y2="19" transform="translate(231.953 206.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_71" data-name="Línea 71" y2="19" transform="translate(231.953 183.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_72" data-name="Línea 72" y2="4" transform="translate(240.953 221.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_73" data-name="Línea 73" y2="16" transform="translate(240.953 200.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_74" data-name="Línea 74" y2="10" transform="translate(240.953 185.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_75" data-name="Línea 75" y2="7" transform="translate(316.953 218.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_76" data-name="Línea 76" y2="14" transform="translate(316.953 200.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Línea_77" data-name="Línea 77" y2="14" transform="translate(307.953 211.57)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <line id="Línea_97" data-name="Línea 97" y2="9" transform="translate(870 2279)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_98" data-name="Línea 98" y2="9" transform="translate(870 2292)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_99" data-name="Línea 99" x1="9" transform="translate(872 2290)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_100" data-name="Línea 100" x1="8" transform="translate(859 2290)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_101" data-name="Línea 101" y2="7" transform="translate(912 2270)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_102" data-name="Línea 102" y2="7" transform="translate(912 2281)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_103" data-name="Línea 103" x1="7" transform="translate(914 2279)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_104" data-name="Línea 104" x1="7" transform="translate(903 2279)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_105" data-name="Línea 105" y2="7" transform="translate(870 2239)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_106" data-name="Línea 106" y2="7" transform="translate(870 2250)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_107" data-name="Línea 107" x1="7" transform="translate(872 2248)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_108" data-name="Línea 108" x1="7" transform="translate(861 2248)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_109" data-name="Línea 109" y2="4" transform="translate(883 2259)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_110" data-name="Línea 110" y2="4" transform="translate(883 2268)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_111" data-name="Línea 111" x1="5" transform="translate(885 2266)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_112" data-name="Línea 112" x1="4" transform="translate(877 2266)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_114" data-name="Línea 114" y2="4" transform="translate(883 2222)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_115" data-name="Línea 115" x1="5" transform="translate(885 2219)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_116" data-name="Línea 116" x1="4" transform="translate(877 2219)" fill="none" stroke="#dd726a" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectángulo_967" data-name="Rectángulo 967" width="290" height="250" transform="translate(640 2181)" fill="none"/>
+  </g>
+</svg>
