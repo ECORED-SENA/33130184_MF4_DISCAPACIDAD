@@ -47,5 +47,11 @@
     "breadcrumb": [
       "Inicio","Unidad 4"],
     "path": "pages/tema_4.html"
-  }
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  } 
 ]
